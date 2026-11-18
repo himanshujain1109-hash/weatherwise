@@ -1,0 +1,9 @@
+# Location of the SDK. This is only used by Gradle.
+# For customization when using a Version Control System, please read the
+# header note.
+sdk.dir=C\:\\Users\\Dell\\AppData\\Local\\Android\\Sdk
+
+# OpenWeatherMap API Key
+# Sign up at https://openweathermap.org/api and generate a free API key (Current & 5-day forecast).
+# Paste your API key below:
+OPENWEATHER_API_KEY=your_openweathermap_api_key_here
